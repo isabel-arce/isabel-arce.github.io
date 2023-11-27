@@ -1,4 +1,5 @@
-![HC6](https://github.com/isabel-arce/isabel-arce.github.io/assets/148930646/fff7f359-5c06-46a4-9b62-c3be36c6c21b) <img width="252" alt="image" src="https://github.com/isabel-arce/isabel-arce.github.io/assets/148930646/4dcdd1d1-4e62-4684-a58d-ec72c35dfa52">
+![HC6](https://github.com/isabel-arce/isabel-arce.github.io/assets/148930646/fff7f359-5c06-46a4-9b62-c3be36c6c21b) 
+<img width="252" alt="image" src="https://github.com/isabel-arce/isabel-arce.github.io/assets/148930646/4dcdd1d1-4e62-4684-a58d-ec72c35dfa52">
 
 
 # Borough Analysis
