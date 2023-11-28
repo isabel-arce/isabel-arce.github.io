@@ -1,4 +1,4 @@
-<img src="https://github.com/isabel-arce/isabel-arce.github.io/assets/148930646/fff7f359-5c06-46a4-9b62-c3be36c6c21b" width="500" height="400" alt="HC6">
+<img src="https://github.com/isabel-arce/isabel-arce.github.io/assets/148930646/fff7f359-5c06-46a4-9b62-c3be36c6c21b" width="600" height="500" alt="HC6">
 Highlighted map of Pelham Bay
 
 # Borough Analysis
