@@ -15,7 +15,7 @@ The first thing the Greener, Greater Buildings Plan is establishing is an “ene
 One of the main aspects of the Greener, Greater Buildings Plan is its transparency when it comes to users' energy consumption. However, in addition to this transparency, the city is also saving almost a quarter billion dollars. 
 
 # NYC Emissions
-<img width="600" height="500" alt="image" src="https://github.com/isabel-arce/isabel-arce.github.io/assets/148930646/d0326e0c-ead8-4b53-bad8-680a6e80e61d">
+<img width="500" height="500" alt="image" src="https://github.com/isabel-arce/isabel-arce.github.io/assets/148930646/d0326e0c-ead8-4b53-bad8-680a6e80e61d">
 
 
 
