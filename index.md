@@ -21,13 +21,9 @@ One of the main aspects of the Greener, Greater Buildings Plan is its transparen
 This chart was made using "household size, household income, vehicle ownership, home size, educational attainment, and home ownership" because those aspects directly connect to energy consumption. Emissions mainly derive from vehicles like cars, trucks, and buses. Another big contributor is large houses that take a lot of gas and electricity to run. This aspect can be connected to socioeconomic status. To reiterate, higher-income communities will contribute more to high emissions. The Bronx specifically has the lowest emissions in all rows compared to all boroughs. Except for one section where the Bronx tied with Manhattan for the lowest housing emissions. 
 
 # Data Exploration
+We analyzed the NYC Clean Heat Dataset which the state used to analyze greenhouse gas emissions and air pollution in an attempt to figure out how to reduce said emissions. The following data was retrieved:
 
-
-
-
-
-
-
+<img width="564" alt="Screenshot 2023-11-30 at 10 34 45 PM" src="https://github.com/isabel-arce/isabel-arce.github.io/assets/148930646/087fbe12-f409-4491-9fd7-da2e4237f2da">
 
 
 
