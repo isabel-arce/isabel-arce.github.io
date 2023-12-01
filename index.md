@@ -7,7 +7,7 @@ Demographic-wise, Pelham Bay is broken into two sections. These two sections can
 In the entirety of Pelham Bay, the unemployment rates are relatively low compared to the rest of the Bronx and New York City. The median monthly housing costs for all of Pelham Parkway are between $1200 and $1500. The percentage of employees working for a private company is mostly over 50%. This indicates that most of the population has secure jobs with benefits and such.
 
 # NYC Clean Heat Program
-## Introducing the Greener, Greater Buildings Plan
+### Introducing the Greener, Greater Buildings Plan
 The Greener, Greater Buildings Plan is a plan made specifically for New York City and its energy-consuming skyscrapers. The Greener, Greater, Buildings Plan is only one part of PlaNYC, a set of goals related to improving the quality of air, water, and overall standard of living. The main goal of PlaNYC is to significantly reduce greenhouse gas emissions and since most of the emissions come from buildings, the Greener, Greater Buildings Plan was made. Although there are almost a million buildings in New York City, the main problem comes from the large-scale buildings so the policies of this plan are meant to address those specifically. 
 
 The first thing the Greener, Greater Buildings Plan is establishing is an “energy code” which must be met by building owners if their renovations impact the energy system. Secondly, data on the energy usage of each building will be recorded for the public so residents aren’t left in the dark regarding the quality of their water and energy. The third is a mandatory check on all energy systems to make sure they are on par with regulations. Then there are two “supplementary components” to help the building owners have the resources to abide by the plan. This, in my opinion, is one of the most important parts of the Greener, Greater Buildings Plan because it gives building owners a shoulder to lean on. This plan asks a lot of dedication from people so having well-equipped professionals is essential in things progressing smoothly. The plan also gives wiggle room for building owners going through financial hardships and therefore cannot comply with the many requirements. 
@@ -15,11 +15,12 @@ The first thing the Greener, Greater Buildings Plan is establishing is an “ene
 One of the main aspects of the Greener, Greater Buildings Plan is its transparency when it comes to users' energy consumption. However, in addition to this transparency, the city is also saving almost a quarter billion dollars. 
 
 # NYC Emissions
-## NYC 2019 Household CBEI Report
+### NYC 2019 Household CBEI Report
 <img width="500" height="300" alt="image" src="https://github.com/isabel-arce/isabel-arce.github.io/assets/148930646/d0326e0c-ead8-4b53-bad8-680a6e80e61d">
 
 This chart was made using "household size, household income, vehicle ownership, home size, educational attainment, and home ownership" because those aspects directly connect to energy consumption. Emissions mainly derive from vehicles like cars, trucks, and buses. Another big contributor is large houses that take a lot of gas and electricity to run. This aspect can be connected to socioeconomic status. To reiterate, higher-income communities will contribute more to high emissions. The Bronx specifically has the lowest emissions in all rows compared to all boroughs. Except for one section where the Bronx tied with Manhattan for the lowest housing emissions. 
 
+# Data Exploration
 
 
 
