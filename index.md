@@ -23,15 +23,15 @@ This chart was made using "household size, household income, vehicle ownership, 
 # Data Exploration
 We analyzed the NYC Clean Heat Dataset which the state used to analyze greenhouse gas emissions and air pollution in an attempt to figure out how to reduce said emissions. The following data was retrieved:
 
-
+### NYC and the Bronx
 <img width="564" alt="Screenshot 2023-11-30 at 10 34 45 PM" src="https://github.com/isabel-arce/isabel-arce.github.io/assets/148930646/087fbe12-f409-4491-9fd7-da2e4237f2da">
 
 In this bar graph of the number of floors in each borough, the expected and the unexpected happens. It was expected that Manhattan, being a sea of skyscrapers, would have the tallest bar. My group and I, however, did not expect the Bronx to be the second highest. This means that it's possible that the Bronx and Manhattan greatly contribute to emissions like air pollution. This goes against some of our previous data presented, therefore the dataset must be thoroughly analyzed.
 
-
+### Pelham Bay
 <img width="564" alt="Screenshot 2023-11-30 at 11 36 33 PM" src="https://github.com/isabel-arce/isabel-arce.github.io/assets/148930646/634e11f2-d0ef-49f4-8e6c-11879b576b36">
 
-Going deeper into the Bronx specifically, the Pelham Bay area has the lowest MMBTU 
+Going deeper into the Bronx specifically, the Pelham Bay area has the lowest MMBTU. For those who do not know, MMBTU is a unit of heat energy called the British thermal unit. 
 
 
 
