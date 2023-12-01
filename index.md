@@ -17,7 +17,9 @@ One of the main aspects of the Greener, Greater Buildings Plan is its transparen
 # NYC Emissions
 <img width="500" height="300" alt="image" src="https://github.com/isabel-arce/isabel-arce.github.io/assets/148930646/d0326e0c-ead8-4b53-bad8-680a6e80e61d">
 
+This chart was made using "household size, household income, vehicle ownership, home size, educational attainment, and home ownership" because those aspects directly connect to energy consumption.
 
+The Bronx specifically has the lowest emissions in all rows compared to all boroughs. Except for one section where the Bronx tied with Manhattan for the lowest housing emissions.
 
 
 
