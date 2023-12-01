@@ -1,12 +1,13 @@
 <img src="https://github.com/isabel-arce/isabel-arce.github.io/assets/148930646/fff7f359-5c06-46a4-9b62-c3be36c6c21b" width="600" height="400" alt="HC6">
-Highlighted map of Pelham Bay
 
-# Borough Analysis
+*Highlighted map of Pelham Bay*
+
+# **Borough Analysis**
 Demographic-wise, Pelham Bay is broken into two sections. These two sections can be observed through the primary postal codes, 10461 and 10462. The 10461 area has a majority White population. The Hispanic population varies between 11% and 30% but nothing compared to the White population. Within this zip code, the Asian population is low with the population almost never exceeding 20%. However, once you reach 10462 the white population doesn’t breach past 40%, but the Hispanic population is almost always over 50%. The Black population is still in the single digits but sometimes reaches 11% but no more.
 
 In the entirety of Pelham Bay, the unemployment rates are relatively low compared to the rest of the Bronx and New York City. The median monthly housing costs for all of Pelham Parkway are between $1200 and $1500. The percentage of employees working for a private company is mostly over 50%. This indicates that most of the population has secure jobs with benefits and such.
 
-# NYC Clean Heat Program
+# **NYC Clean Heat Program**
 ### Introducing the Greener, Greater Buildings Plan
 The Greener, Greater Buildings Plan is a plan made specifically for New York City and its energy-consuming skyscrapers. The Greener, Greater, Buildings Plan is only one part of PlaNYC, a set of goals related to improving the quality of air, water, and overall standard of living. The main goal of PlaNYC is to significantly reduce greenhouse gas emissions and since most of the emissions come from buildings, the Greener, Greater Buildings Plan was made. Although there are almost a million buildings in New York City, the main problem comes from the large-scale buildings so the policies of this plan are meant to address those specifically. 
 
@@ -14,13 +15,13 @@ The first thing the Greener, Greater Buildings Plan is establishing is an “ene
 
 One of the main aspects of the Greener, Greater Buildings Plan is its transparency when it comes to users' energy consumption. However, in addition to this transparency, the city is also saving almost a quarter billion dollars. 
 
-# NYC Emissions
+# **NYC Emissions**
 ### NYC 2019 Household CBEI Report
 <img width="500" height="300" alt="image" src="https://github.com/isabel-arce/isabel-arce.github.io/assets/148930646/d0326e0c-ead8-4b53-bad8-680a6e80e61d">
 
 This chart was made using "household size, household income, vehicle ownership, home size, educational attainment, and home ownership" because those aspects directly connect to energy consumption. Emissions mainly derive from vehicles like cars, trucks, and buses. Another big contributor is large houses that take a lot of gas and electricity to run. This aspect can be connected to socioeconomic status. To reiterate, higher-income communities will contribute more to high emissions. The Bronx specifically has the lowest emissions in all rows compared to all boroughs. Except for one section where the Bronx tied with Manhattan for the lowest housing emissions. 
 
-# Data Exploration
+# **Data Exploration**
 We analyzed the NYC Clean Heat Dataset which the state used to analyze greenhouse gas emissions and air pollution in an attempt to figure out how to reduce said emissions. The following data was retrieved:
 
 ### NYC and the Bronx
