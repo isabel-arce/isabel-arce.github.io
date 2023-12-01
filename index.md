@@ -42,7 +42,7 @@ Going deeper into the Bronx, the Pelham Bay area has the lowest MMBTU. Having a 
 # **Map**
 
 <dl>
-<iframe src="HC10-InteractiveMap.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="file:///Users/isabel.arce/Desktop/Programs/HC10-InteractiveMap.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </dl>
 
 
